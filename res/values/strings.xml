@@ -3947,6 +3947,7 @@ found in the list of installed apps.</string>
     <string name="icon_picker_gallery_title">Gallery</string>
     <string name="icon_picker_pack_title">Icon pack</string>
     
+<<<<<<< HEAD
     <!-- Lockscreen Targets -->
     <!-- Lock Screen Shortcuts -->
     <string name="profile_applist_title">Applications</string>
@@ -4025,4 +4026,8 @@ found in the list of installed apps.</string>
 <!-- Safe headset volume restore checkbox -->
     <string name="safe_headset_restore_title">Safe headset volume</string>
     <string name="safe_headset_restore_summary">Prevent loud volume levels when headset is first plugged in</string>
+
+<!-- Hostname setting -->
+    <string name="device_hostname">Device hostname</string>
+
 </resources>
