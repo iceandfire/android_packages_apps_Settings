@@ -67,7 +67,8 @@
              android:title="@string/lockscreen_target_title"
              android:summary="@string/lockscreen_target_summary"
              android:fragment="com.android.settings.th.LockscreenTargets" />
-
+	
+	<!-- Lockscreen weather -->
      <Preference
         android:fragment="com.android.settings.th.Weather"
         android:key="lockscreen_weather"
@@ -93,5 +94,12 @@
             android:title="@string/volbtn_music_controls_title"
             android:summary="@string/volbtn_music_controls_summary"
             android:persistent="false" />
+
+	<!-- Lock screen calendar -->
+	<Preference
+       android:fragment="com.android.settings.th.Calendar"
+       android:key="lockscreen_calendar"
+       android:summary="@string/lockscreen_calendar_summary"
+       android:title="@string/lockscreen_calendar_title" />
 
 </PreferenceScreen>
