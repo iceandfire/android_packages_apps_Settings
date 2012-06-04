@@ -100,4 +100,10 @@
             android:summary="@string/volume_adjust_sounds_enable_summary"
             android:persistent="true" />
 
+	<CheckBoxPreference
+            android:key="safe_headset_restore"
+            android:title="@string/safe_headset_restore_title"
+            android:summary="@string/safe_headset_restore_summary"
+            android:defaultValue="true" />
+
 </PreferenceScreen>
