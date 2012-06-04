@@ -1505,6 +1505,8 @@
     <string name="display_settings_title">Display</string>
     <!-- Sound settings screen heading -->
     <string name="sound_settings">Sound</string>
+    <!-- Sound settings screen, setting option volume overlay title -->
+    <string name="volume_overlay_title">Volume panel</string>
     <!-- Sound settings screen, setting option name checkbox -->
     <string name="silent_mode_title">Silent mode</string>
     <!-- Sound settings screen, setting option name to pick ringtone (a list dialog comes up)-->
@@ -3982,6 +3984,7 @@ found in the list of installed apps.</string>
     <string name="weather_retrieve_location_dialog_title">Cannot retrieve location!</string>
     <string name="weather_retrieve_location_dialog_message">Network geolocation is disabled.\n\nSet a custom location or enable network location</string>
     <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
+    <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
 
     <!-- Lock screen Weather - Update frequency -->
     <string name="weather_refresh_manual">Manual</string>
